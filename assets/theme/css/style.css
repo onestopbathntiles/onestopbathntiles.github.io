@@ -1,5 +1,5 @@
 section {
-  background-color: #053f89;
+  background-color: #ffffff;
 }
 
 body {
@@ -8,7 +8,6 @@ body {
   font-weight: 400;
   color: #232323;
   position: relative;
-  background-color: #053f89;
 }
 
 section,
@@ -763,6 +762,7 @@ input[type="range"] {
   background: transparent;
   border: 1px solid transparent;
   border-radius: 0.25rem;
+  color: white;
 }
 
 .navbar-toggler:focus,
