@@ -1128,6 +1128,32 @@ a {
   color: #ffffff;
   text-align: left;
 }
+.cid-seuyVK3RMp {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-seuyVK3RMp .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
+}
+.cid-seuyVK3RMp .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #232323;
+  transition: all 0.3s;
+  color: #232323;
+}
+.cid-seuyVK3RMp .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #232323;
+  color: #ffffff;
+}
+.cid-seuyVK3RMp .mbr-section-title {
+  color: #000000;
+}
 .cid-seuvAdyANn {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -1207,35 +1233,9 @@ a {
 .cid-seuuYCs8P2 .mbr-section-title {
   color: #000000;
 }
-.cid-seuyVK3RMp {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-seuyVK3RMp .social-row .soc-item {
-  display: inline-block;
-  text-align: center;
-  margin-bottom: 1rem;
-  margin-right: .7rem;
-}
-.cid-seuyVK3RMp .social-row .soc-item .mbr-iconfont {
-  font-size: 32px;
-  border-radius: 50%;
-  padding: 0.6rem;
-  border: 2px solid #232323;
-  transition: all 0.3s;
-  color: #232323;
-}
-.cid-seuyVK3RMp .social-row .soc-item .mbr-iconfont:hover {
-  background-color: #232323;
-  color: #ffffff;
-}
-.cid-seuyVK3RMp .mbr-section-title {
-  color: #000000;
-}
 .cid-seACjQJh11 {
   padding-top: 0rem;
-  padding-bottom: 6rem;
+  padding-bottom: 3rem;
   background-color: #ffffff;
 }
 .cid-seACjQJh11 .mbr-overlay {
@@ -1243,28 +1243,28 @@ a {
 }
 @media (min-width: 992px) {
   .cid-seACjQJh11 .carousel {
-    min-height: 500px;
+    min-height: 600px;
   }
   .cid-seACjQJh11 .carousel img {
-    max-height: 500px;
+    max-height: 600px;
     object-fit: contain;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-seACjQJh11 .carousel {
-    min-height: 325px;
+    min-height: 390px;
   }
   .cid-seACjQJh11 .carousel img {
-    max-height: 325px;
+    max-height: 390px;
     object-fit: contain;
   }
 }
 @media (max-width: 767px) {
   .cid-seACjQJh11 .carousel {
-    min-height: 275px;
+    min-height: 330px;
   }
   .cid-seACjQJh11 .carousel img {
-    max-height: 275px;
+    max-height: 330px;
     object-fit: contain;
   }
   .cid-seACjQJh11 .container .carousel-control {
